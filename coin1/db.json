@@ -1,0 +1,321 @@
+{
+    "scroll": [
+      { 
+        "id": 1,
+        "img": "draft11",
+        "price": "Free",
+        "x":"x",
+        "coin":"100",
+        "name":"CSPR"
+      },
+      { 
+        "id": 2,
+        "img": "draft2",
+        "price": "Free",
+        "x":"x",
+        "coin":"10",
+        "name":"GMT"
+      },
+      { 
+        "id": 3,
+        "img": "draft3",
+        "price": "$3",
+        "x":"x",
+        "coin":"100",
+        "name":"LINK"
+      },
+      { 
+        "id": 4,
+        "img": "draft4",
+        "price": "$4",
+        "x":"x",
+        "coin":"100",
+        "name":"MATIK"
+      },
+      { 
+        "id": 5,
+        "img": "draft2",
+        "price": "$5",
+        "x":"x",
+        "coin":"100",
+        "name":"AVAX"
+      },
+      { 
+        "id": 6,
+        "img": "draft11",
+        "price": "Free",
+        "x":"x",
+        "coin":"100",
+        "name":"CSPR"
+      }
+     
+ 
+    ],
+    "ammounts": [
+      {
+        "id": 1,
+        "img1": "snduk1",
+        "coin":"$10",
+        "price":"0.0001BTC"
+      },
+      {
+        "id": 2,
+        "img1": "snduk2",
+        "coin":"$25",
+        "price":"0.0001BTC"
+      },
+      {
+        "id": 3,
+        "img1": "snduk3",
+        "coin":"$50",
+        "price":"0.0025BTC"
+      },
+      {
+        "id": 4,
+        "img1": "snduk4",
+        "coin":"$100",
+        "price":"0.005BTC"
+      },
+      {
+        "id": 5,
+        "img1": "snduk5",
+        "coin":"$250",
+        "price":"0.0001BTC"
+      },
+      {
+        "id": 6,
+        "img1": "snduk1",
+        "coin":"$100",
+        "price":"0.0001BTC"
+      },
+      {
+        "id": 7,
+        "img1": "snduk1",
+        "coin":"$100",
+        "price":"0.0001BTC"
+      },
+      {
+        "id": 8,
+        "img1": "snduk1",
+        "coin":"$100",
+        "price":"0.0001BTC"
+      }
+      
+    ],
+    "chest":[
+      {
+        "id":"chest1",
+        "link": "LINK",
+        "total": "Total",
+        "item": "70",
+        "valut":"$",
+        "price":"100",
+        "day": "2Y 335D",
+        "user": "#224356",
+        "x":"x",
+        "value":"5",
+        "price1":"30",
+        "price2":"7",
+        "value1":"10",
+        "price3":"70",
+        "tokos":"50",
+        "img":"snduk6",
+        "logo": "logo",
+        "family": "family",
+        "oclock": "oclock"
+      },
+      {
+        "id":"chest2",
+        "link": "AVAX",
+        "total": "Total",
+        "item": "10",
+        "valut":"$",
+        "price":"150",
+        "day": "3Y 105D",
+        "user": "#784599",
+        "x":"x",
+        "value":"5",
+        "price1":"30",
+        "price2":"15",
+        "value1":"100",
+        "price3":"1500",
+        "tokos":"2",
+        "img":"sunduk7",
+        "logo": "logo2",
+        "family": "family2",
+        "oclock": "oclock"
+      },
+      {
+        "id":"chest3",
+        "link": "GMT",
+        "total": "Total",
+        "item": "2000",
+        "valut":"$",
+        "price":"1000",
+        "day": "1Y 19D",
+        "user": "#732559",
+        "x":"x",
+        "value":"10",
+        "price1":"5",
+        "price2":"0,5",
+        "value1":"100",
+        "price3":"50",
+        "tokos":"5",
+        "img":"sunduk8",
+        "logo": "logo3",
+        "family": "family3",
+        "oclock": "oclock"
+      },
+      {
+        "id":"chest4",
+        "link": "MATIC",
+        "total": "Total",
+        "item": "2000",
+        "valut":"$",
+        "price":"1000",
+        "day": "1Y 9D",
+        "user": "#256348",
+        "x":"x",
+        "value":"15",
+        "price1":"7,5",
+        "price2":"0,5",
+        "value1":"20",
+        "price3":"10",
+        "tokos":"75",
+        "img":"sunduk9",
+        "logo": "logo4",
+        "family": "family4",
+        "oclock": "oclock"
+      }
+    ],
+    "steptwo":[
+      {
+        "id":1,
+        "img":"karas",
+        "price": "Free"
+      },
+      {
+        "id":2,
+        "img":"Layer_1",
+        "price": "$0.25"
+      },
+      {
+        "id":3,
+        "img":"karas1",
+        "price": "$0.99"
+      },
+      {
+        "id":4,
+        "img":"snduk9",
+        "price": "$1.99"
+      },
+      {
+        "id":5,
+        "img":"snduk10",
+        "price": "$2.99"
+      },
+      {
+        "id":6,
+        "img":"karas",
+        "price": "Free"
+      }
+
+    ],
+    "step":[
+      {
+        "id":1,
+        "price": "Free"
+      },
+      {
+        "id":2,
+        "price": "$0.25"
+      },
+      {
+        "id":3,
+        "price": "$0.99"
+      },
+      {
+        "id":4,
+        "price": "$1.99"
+      },
+      {
+        "id":5,
+        "price": "$2.99"
+      },
+      {
+        "id":6,
+        "price": "Free"
+      }
+
+    ],
+    "gift":[
+      {
+        "id":1,
+        "img":"tup1",
+        "price": "$0.5"
+      },
+      {
+        "id":2,
+        "img":"tup2",
+        "price": "$0.99"
+      },
+      {
+        "id":3,
+        "img":"tup3",
+        "price": "$1.99"
+      },
+      {
+        "id":4,
+        "img":"tup4",
+        "price": "$2.99"
+      },
+      {
+        "id":5,
+        "img":"tup5",
+        "price": "$3.99"
+      },
+      {
+        "id":6,
+        "img":"karas",
+        "price": "Free"
+      }
+
+    ],
+    "coins":[
+      {
+        "id":1,
+        "img":"logos1"
+      },
+      {
+        "id":2,
+        "img":"logos2"
+      },
+      {
+        "id":3,
+        "img":"logos3"
+      },
+      {
+        "id":4,
+        "img":"logos4"
+      },
+      {
+        "id":5,
+        "img":"logos5"
+      },
+      {
+        "id":6,
+        "img":"logos6"
+      },
+      {
+        "id":7,
+        "img":"logos7"
+      },
+      {
+        "id":8,
+        "img":"logos8"
+      }
+
+    ]
+   
+}
+
